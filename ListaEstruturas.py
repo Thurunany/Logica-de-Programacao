@@ -1,6 +1,5 @@
 # Lista de exercícios 1 - Estruturas
 
-
 def soma_dois_inteiros(a, b):
     """ Recebe dois números inteiros, e retorna a sua soma"""
 
