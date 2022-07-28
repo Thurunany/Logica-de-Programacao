@@ -57,7 +57,6 @@ def troca_caixa(texto):
 
     return texto
 
-
 def conta_caracteres(texto, caracter_procurado):
     """Receba um texto e retorne a quantidade de vezes em que
     aparece o caracter procurado."""
